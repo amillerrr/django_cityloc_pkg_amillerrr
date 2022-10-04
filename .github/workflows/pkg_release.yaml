@@ -27,5 +27,5 @@ jobs:
           pip install -r requirements.txt
 
       # Run all tests with verbose flag
-      - name: Run all tests
-        run: pytest -v
+      #- name: Run all tests
+      #  run: pytest -v
